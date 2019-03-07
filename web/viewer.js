@@ -14,7 +14,7 @@
  */
 'use strict';
 var DEFAULT_URL = 'compressed.tracemonkey-pldi-09.pdf';
-alert(window.location.url);
+console.log(window.location);
 ;
 var pdfjsWebLibs;
 {
